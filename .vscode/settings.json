@@ -7,5 +7,6 @@
     "string_view": "cpp",
     "utility": "cpp",
     "limits": "cpp"
-  }
+  },
+  "C_Cpp.errorSquiggles": "Enabled"
 }
